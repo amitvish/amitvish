@@ -6,8 +6,8 @@
 </ul>
 
 &nbsp;![](https://komarev.com/ghpvc/?username=amitvish&color=brightgreen)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishps1&show_icons=true&locale=en" alt="ashishps1" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishps1&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitvish&show_icons=true&locale=en" alt="amitvish" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitvish&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
 </p>
 
 
