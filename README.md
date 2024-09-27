@@ -1,12 +1,20 @@
-## Hi there 👋
+<h2 align="center">Hi there 👋, Welcome to my Github page!</h2>
+<ul>
+  <li>I'm <a href = "https://amitvishw.in">Amit</a>, a Software Engineer having 2+ years of experience working as Full Stack Java Developer.</li>
+  <li>Checkout my <a href="https://www.youtube.com/@AmitKumar-cp1oz">YouTube Channel</a> for more in-depth content.</li>
+  <li>Follow me on <a href="https://www.linkedin.com/in/amit-vishwa/">LinkedIn</a>  to stay updated.</li>
+</ul>
+
+&nbsp;![](https://komarev.com/ghpvc/?username=amitvish&color=brightgreen)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishps1&show_icons=true&locale=en" alt="ashishps1" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishps1&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+</p>
+
 
 #### Languages:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ...
 
 <!--
