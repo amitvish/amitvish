@@ -1,7 +1,6 @@
 <h2 align="center">Hi there 👋, Welcome to my Github page!</h2>
 <ul>
   <li>I'm <a href = "https://amitvishwa.in">Amit</a>, a Software Engineer having 2+ years of experience working as Full Stack Java Developer.</li>
-  <li>Checkout my <a href="https://www.youtube.com/@AmitKumar-cp1oz">YouTube Channel</a> for more in-depth content.</li>
   <li>Follow me on <a href="https://www.linkedin.com/in/amit-vishwa/">LinkedIn</a>  to stay updated.</li>
 </ul>
 
